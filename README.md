@@ -1,6 +1,8 @@
 # Portfólio 
 ---
-Este repositório contém um **portfólio** criado para compartilhar projetos realizados, conhecimentos, experiências e minhas habilidades como desenvolvedor web ao longo de toda a minha trajetória.
+Este repositório contém um **portfólio** criado para compartilhar projetos realizados, conhecimentos, experiências e minhas habilidades como desenvolvedor web ao longo de toda a minha trajetória. 
+
+# Demonstração Visual
 ![Demonstração Visual](assets/portfolio.png)
 
 # Acesso ao Portfólio
