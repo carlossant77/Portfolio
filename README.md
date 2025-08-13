@@ -8,6 +8,6 @@ Este repositório contém um **portfólio** criado para compartilhar projetos re
 # Acesso ao Portfólio
 Para acessar o portfólio, [clique aqui](https://portfolio-uaa1.onrender.com)
 
-Tecnologias Utilizadas: HTML, CSS
-
-Link do Portfólio: https://portfolio-uaa1.onrender.com
+# Tecnologias Utilizadas 
+- **HTML:** Estrutura do Portfólio
+- **CSS:** Estilização do Portfólio e interações visuais
